@@ -1,4 +1,4 @@
-# adifferentstoryalltogether.github.io
+# jtm551.github.io
 Website to share inspiring human stories of choosing love over hate.
 adifferentstoryalltogether/
 │
